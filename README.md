@@ -1,4 +1,4 @@
-7AC59586-66A8-4771-94E3-67C8A48B240C.png  C5517338-4D58-42AF-8F7B-F8950AF444DB.png   please add these two images in this html code this company name and logo <!DOCTYPE html>
+
 
 <html lang="en" id="html-tag"> <head>
 
